@@ -1,2 +1,19 @@
-# math-for-data-science
-This report has been produced as part of my introduction into the Urban Mobility Intelligence Unit (UMIU), a consultancy supporting the UK Department for Transport. The aim is to demonstrate capability of applying advanced mathematical techniques to a real-world smart mobility problem.
+# Mathematics for Data Science
+This This repository contains my coursework, notes, and Python implementations for the Mathematics for Data Science module in my Master's program.
+
+## Topics Covered
+- Linear Algebra
+- Calculus
+- Probability and Statistics
+- Matrix operations using Python
+- Traffic flow modelling
+
+## Tools Used
+- Python
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## Author
+Okwori A. Merciful
+Master’s Student in Data Science
